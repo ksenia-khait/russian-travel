@@ -1,0 +1,16 @@
+.places__title {
+  font-size: 35px;
+  line-height: 106%;
+  color: #ffffff;
+  margin: 0;
+  align-self: flex-end;
+}
+
+@media (max-width: 767px) {
+  .places__title {
+    width: 288px;
+    height: 35px;
+    align-self: flex-start;
+    margin: 0 auto;
+  }
+}

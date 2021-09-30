@@ -1,0 +1,11 @@
+.website {
+  align-self: flex-end;
+}
+
+@media (max-width: 767px) {
+  .website {
+    align-self: flex-start;
+    width: 288px;
+    margin: 0 auto;
+  }
+}
