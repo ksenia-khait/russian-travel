@@ -1,17 +1,16 @@
-.photo__title {
-  width: 560px;
-  height: 152px;
+.cover__title {
+  max-width: 560px;
   font-size: 72px;
   line-height: 109%;
+  font-weight: 900;
   text-align: center;
   color: #ffffff;
   margin: 0 auto 32px;
 }
 
 @media (max-width: 767px) {
-  .photo__title {
-    width: 288px;
-    height: 70px;
+  .cover__title {
+    max-width: 288px;
     font-size: 32px;
     margin: 0 auto 16px;
   }

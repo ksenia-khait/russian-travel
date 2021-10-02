@@ -9,14 +9,10 @@
   margin-bottom: 0px;
 }
 
-@media (max-width: 1279px) {
-  .places__paragraph {
-  }
-}
-
 @media (max-width: 1023px) {
   .places__paragraph {
     font-size: 16px;
+    margin-bottom: 25px;
   }
 }
 
@@ -24,6 +20,6 @@
   .places__paragraph {
     align-self: flex-start;
     width: 288px;
-    margin: 0 auto 32px;
+    margin-bottom: 25px;
   }
 }

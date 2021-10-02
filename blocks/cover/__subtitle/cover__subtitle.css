@@ -1,17 +1,16 @@
-.photo__subtitle {
+.cover__subtitle {
   font-size: 18px;
   line-height: 122%;
   text-align: center;
   color: #ffffff;
   margin: 0 auto;
-  width: 360px;
-  height: 66px;
+  max-width: 360px;
 }
 
 @media (max-width: 767px) {
-  .photo__subtitle {
+  .cover__subtitle {
     font-size: 14px;
-    width: 288px;
-    height: 48px;
+    max-width: 288px;
+    
   }
 }

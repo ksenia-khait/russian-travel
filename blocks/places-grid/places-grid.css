@@ -12,12 +12,13 @@
 @media (max-width: 1023px) {
   .places-grid {
     max-width: 720px;
+    margin-bottom: 90px;
   }
 }
 
 @media (max-width: 767px) {
   .places-grid {
     max-width: 320px;
-    margin-bottom: 62px;
+    margin-bottom: 66px;
   }
 }

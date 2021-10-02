@@ -4,8 +4,7 @@
   left: 148px;
   top: 504px;
   margin: 0 auto 8px;
-  background: url(../../../images/lead-polka.jpg);
-  background-size: cover;
+  object-fit: cover;
 }
 
 @media (max-width: 1279px) {

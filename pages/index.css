@@ -1,14 +1,17 @@
 @import url("../vendor/normalize.css");
-@import url("../fonts/fonts.css");
+@import url("../vendor/fonts/fonts.css");
+
+/*BODY*/
+@import url("../blocks/body-color/body-color.css");
 
 /* HEADER*/
 
 @import url("../blocks/header/header.css");
 @import url("../blocks/header/__logo/header__logo.css");
+@import url("../blocks/header/__lang-links/header__lang-links.css");
 @import url("../blocks/header/__lang-link/header__lang-link.css");
-@import url("../blocks/header/__lang-link/_style/header__lang-link_style.css");
-@import url("../blocks/banner/banner.css");
-@import url("../blocks/banner/__margin/banner__margin.css");
+@import url("../blocks/header/__lang-link/_active/header__lang-link_active.css");
+
 
 /* PAGE */
 
@@ -28,6 +31,7 @@
 @import url("../blocks/intro/__title/intro__title.css");
 @import url("../blocks/intro/__text/intro__text.css");
 @import url("../blocks/intro/__list/intro__list.css");
+@import url("../blocks/intro/__list-item/intro__list-item.css");
 
 /* PHOTO-GRID */
 
@@ -48,15 +52,13 @@
 /* COVER */
 
 @import url("../blocks/cover/cover.css");
-@import url("../blocks/photo/photo.css");
-@import url("../blocks/photo/__title/photo__title.css");
-@import url("../blocks/photo/__link/photo__link.css");
-@import url("../blocks/photo/__subtitle/photo__subtitle.css");
+@import url("../blocks/cover/__title/cover__title.css");
+@import url("../blocks/cover/__link/cover__link.css");
+@import url("../blocks/cover/__subtitle/cover__subtitle.css");
 
 /* FOOTER */
 @import url("../blocks/footer/footer.css");
 @import url("../blocks/footer/__links/footer__links.css");
 @import url("../blocks/footer/__link/footer__link.css");
 @import url("../blocks/footer/__copyright/footer__copyright.css");
-@import url("../blocks/basement/basement.css");
-@import url("../blocks/basement/__margin/basement__margin.css");
+
