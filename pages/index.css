@@ -12,7 +12,6 @@
 @import url("../blocks/header/__lang-link/header__lang-link.css");
 @import url("../blocks/header/__lang-link/_active/header__lang-link_active.css");
 
-
 /* PAGE */
 
 @import url("../blocks/page/page.css");
@@ -32,7 +31,7 @@
 @import url("../blocks/intro/__text/intro__text.css");
 @import url("../blocks/intro/__list/intro__list.css");
 @import url("../blocks/intro/__list-item/intro__list-item.css");
-@import url("../blocks/intro/__list-item/_bold/intro__list-item_bold.css");
+@import url("../blocks/intro/__list-item-bold/intro__list-item-bold.css");
 
 /* PHOTO-GRID */
 
@@ -62,4 +61,3 @@
 @import url("../blocks/footer/__links/footer__links.css");
 @import url("../blocks/footer/__link/footer__link.css");
 @import url("../blocks/footer/__copyright/footer__copyright.css");
-
