@@ -2,7 +2,7 @@
 @import url("../vendor/fonts/fonts.css");
 
 /*BODY*/
-@import url("../blocks/body-color/body-color.css");
+@import url("../blocks/background/background.css");
 
 /* HEADER*/
 
@@ -32,6 +32,7 @@
 @import url("../blocks/intro/__text/intro__text.css");
 @import url("../blocks/intro/__list/intro__list.css");
 @import url("../blocks/intro/__list-item/intro__list-item.css");
+@import url("../blocks/intro/__list-item/_bold/intro__list-item_bold.css");
 
 /* PHOTO-GRID */
 
