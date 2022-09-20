@@ -4,7 +4,10 @@
 
 Описание: Если вы хотите попутешествовать по России - можете смело открывать проект. 
 
-**Стек:** HTML, CSS(Grid-Layout, Flex-box), responsive/adaptive markup
+### Стек Технологий: 
++ HTML
++ CSS(grid-layout, flex-box) 
++ responsive/adaptive markup
 
 #### В планах по доработке проекта: 
 +  добавить форму заявок на тур
